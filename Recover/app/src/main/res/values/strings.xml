@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Navigator</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_grid_view">GridViewActivity</string>
+    <string name="song_name">Unknown song</string>
+    <string name="song_artist">Unknown artist</string>
+    <string name="contact">Contact</string>
+    <string name="email"><a href="iamsamin14@gmail.com">iamsamin14@gmail.com</a></string>
+    <string name="src">https://github.com/Manuel4131/navigator_app</string>
+    <string name="introduction">Intro</string>
+    <string name="no_app_works">No app available to complete the request</string>
+</resources>
